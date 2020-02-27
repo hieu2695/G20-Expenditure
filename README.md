@@ -13,7 +13,7 @@ The dataset is retrieved from [Data World Bank](https://data.worldbank.org/).
 
 In this project, only the domestic general government expenditures are taken into consideration. The data is preprocessed using Python and is visualized using Visual Studio Code. Due to the availability of data, there are some missing values in education expenditure so the analysis of education is not completely meaningful.
 
-[Preprocessing Data notebook](Markdown/Preprocessing data.md)
+[Preprocessing Data notebook](https://hieu2695.github.io/G20-Expenditure/notebook_html/Preprocessing\ data.html)
 
 ### Key Findings
 
