@@ -1,0 +1,343 @@
+Country,Year,Amount,Field
+Australia,2011,1106.1842136046932,Military
+Canada,2011,623.181485332854,Military
+France,2011,988.6464035418284,Military
+Germany,2011,597.5719146203371,Military
+Italy,2011,573.6344260887682,Military
+Japan,2011,475.32482802852775,Military
+South Korea,2011,620.6194582655057,Military
+Mexico,2011,55.93467291036133,Military
+United Kingdom,2011,961.5862263171564,Military
+United States,2011,2283.0025992922115,Military
+Brazil,2011,187.00833362395562,Military
+India,2011,38.66156662175136,Military
+Indonesia,2011,23.81737252035075,Military
+Russia,2011,491.30627236517586,Military
+South Africa,2011,88.34239684038192,Military
+Turkey,2011,235.6134915099001,Military
+China,2011,103.04544198205531,Military
+Argentina,2011,98.2022107877541,Military
+Saudi Arabia,2011,1716.8341189518192,Military
+Australia,2012,1142.547877872282,Military
+Canada,2012,589.052234392759,Military
+France,2012,914.3368747317967,Military
+Germany,2012,575.0978062173723,Military
+Italy,2012,503.62708645471537,Military
+Japan,2012,470.2031961873665,Military
+South Korea,2012,636.4906709733443,Military
+Mexico,2012,59.508224288070345,Military
+United Kingdom,2012,927.9979865414148,Military
+United States,2012,2181.7019841544948,Military
+Brazil,2012,170.5401383286511,Military
+India,2012,36.63622819955079,Military
+Indonesia,2012,26.287120471287594,Military
+Russia,2012,568.9135911608541,Military
+South Africa,2012,84.97613527063768,Military
+Turkey,2012,240.55612724481568,Military
+China,2012,116.00716762847205,Military
+Argentina,2012,102.67598379512549,Military
+Saudi Arabia,2012,1937.8324230105886,Military
+Australia,2013,1124.1585569601036,Military
+Canada,2013,527.5974530261153,Military
+France,2013,945.7322099135473,Military
+Germany,2013,566.5348436202897,Military
+Italy,2013,499.87820951797937,Military
+Japan,2013,384.66753003019727,Military
+South Korea,2013,680.3863379086665,Military
+Mexico,2013,65.95809799407739,Military
+United Kingdom,2013,897.1409799439352,Military
+United States,2013,2024.0098419530086,Military
+Brazil,2013,163.5261598413201,Military
+India,2013,35.84479264695732,Military
+Indonesia,2013,33.29540661730591,Military
+Russia,2013,615.6699347711345,Military
+South Africa,2013,76.74722972069769,Military
+Turkey,2013,245.7873428343597,Military
+China,2013,131.63159588432302,Military
+Argentina,2013,109.57805905043814,Military
+Saudi Arabia,2013,2230.0959897272605,Military
+Australia,2014,1113.5015694945323,Military
+Canada,2014,504.4258114695857,Military
+France,2014,959.247694671082,Military
+Germany,2014,567.129748032182,Military
+Italy,2014,457.2578725308809,Military
+Japan,2014,368.5177614987802,Military
+South Korea,2014,739.9955166035138,Military
+Mexico,2014,71.99160771428816,Military
+United Kingdom,2014,924.0781894995796,Military
+United States,2014,1915.6406917838308,Military
+Brazil,2014,161.12705699291647,Military
+India,2014,39.296199058749636,Military
+Indonesia,2014,27.159784240147637,Military
+Russia,2014,578.7196157165401,Military
+South Africa,2014,71.37221672129056,Military
+Turkey,2014,230.11852564785062,Military
+China,2014,145.82341477377324,Military
+Argentina,2014,108.3119767944628,Military
+Saudi Arabia,2014,2612.232656835848,Military
+Australia,2015,1111.5331433964188,Military
+Canada,2015,500.2481453333528,Military
+France,2015,831.0835404628848,Military
+Germany,2015,484.4002382747959,Military
+Italy,2015,365.97301434205724,Military
+Japan,2015,330.76183231879384,Military
+South Korea,2015,716.8638109645462,Military
+Mexico,2015,63.56350515466575,Military
+United Kingdom,2015,836.1950381339102,Military
+United States,2015,1858.5137702168224,Military
+Brazil,2015,120.35669542527178,Military
+India,2015,38.616857283387645,Military
+Indonesia,2015,29.551174009041763,Military
+Russia,2015,452.90695828485406,Military
+South Africa,2015,63.0340649062566,Military
+Turkey,2015,202.2290467224468,Military
+China,2015,153.20365775248638,Military
+Argentina,2015,117.224744023881,Military
+Saudi Arabia,2015,2748.810732016877,Military
+Australia,2016,1045.820586891312,Military
+Canada,2016,489.7952653348155,Military
+France,2016,860.2305389277052,Military
+Germany,2016,500.93684972052637,Military
+Italy,2016,414.42218833598616,Military
+Japan,2016,364.5047844497463,Military
+South Korea,2016,719.9903206055191,Military
+Mexico,2016,48.87535438093333,Military
+United Kingdom,2016,743.7628753544988,Military
+United States,2016,1857.5043603816614,Military
+Brazil,2016,117.63709434534701,Military
+India,2016,43.343597133024,Military
+Indonesia,2016,28.1712361468436,Military
+Russia,2016,476.83340219290125,Military
+South Africa,2016,56.71179589976272,Military
+Turkey,2016,223.72121528985184,Military
+China,2016,155.51244492758437,Military
+Argentina,2016,104.00258761423405,Military
+Saudi Arabia,2016,1962.6310269935807,Military
+Australia,2011,4067.59395007,Health
+Canada,2011,3905.83289448,Health
+France,2011,3748.46803211,Health
+Germany,2011,4176.6895467,Health
+Italy,2011,2608.84817276,Health
+Japan,2011,4259.9711231,Health
+South Korea,2011,908.6282675,Health
+Mexico,2011,289.01449276,Health
+United Kingdom,2011,2949.74939393,Health
+United States,2011,3960.42471415,Health
+Brazil,2011,464.05188259,Health
+India,2011,14.06778515,Health
+Indonesia,2011,29.07368702,Health
+Russia,2011,429.00153736,Health
+South Africa,2011,325.17449134,Health
+Turkey,2011,420.69631233,Health
+China,2011,127.82292467,Health
+Argentina,2011,723.03212643,Health
+Saudi Arabia,2011,591.76009272,Health
+Australia,2012,4083.90377323,Health
+Canada,2012,3944.04955113,Health
+France,2012,3537.54707471,Health
+Germany,2012,3948.94504754,Health
+Italy,2012,2379.62686137,Health
+Japan,2012,4374.52566792,Health
+South Korea,2012,927.91629229,Health
+Mexico,2012,298.55972356,Health
+United Kingdom,2012,2951.39992074,Health
+United States,2012,4089.20576465,Health
+Brazil,2012,438.32888925,Health
+India,2012,13.72923326,Health
+Indonesia,2012,32.15784318,Health
+Russia,2012,484.22173251,Health
+South Africa,2012,318.69708776,Health
+Turkey,2012,415.50686644,Health
+China,2012,158.02181989,Health
+Argentina,2012,847.33142074,Health
+Saudi Arabia,2012,694.50200771,Health
+Australia,2013,3943.95274641,Health
+Canada,2013,3893.02741644,Health
+France,2013,3734.27290172,Health
+Germany,2013,4269.11824862,Health
+Italy,2013,2430.43396744,Health
+Japan,2013,3653.67949869,Health
+South Korea,2013,1009.29533799,Health
+Mexico,2013,324.86567108,Health
+United Kingdom,2013,3362.13121005,Health
+United States,2013,4221.90556384,Health
+Brazil,2013,434.57935061,Health
+India,2013,12.97028516,Health
+Indonesia,2013,33.54149092,Health
+Russia,2013,506.01268629,Health
+South Africa,2013,287.1660262000001,Health
+Turkey,2013,432.81197709,Health
+China,2013,187.23044615,Health
+Argentina,2013,900.04043583,Health
+Saudi Arabia,2013,774.92756928,Health
+Australia,2014,3797.34117834,Health
+Canada,2014,3704.85053801,Health
+France,2014,3832.11215416,Health
+Germany,2014,4455.15160723,Health
+Italy,2014,2413.16034745,Health
+Japan,2014,3448.38227175,Health
+South Korea,2014,1122.46708725,Health
+Mexico,2014,306.29370435,Health
+United Kingdom,2014,3668.46846,Health
+United States,2014,7366.7946741,Health
+Brazil,2014,440.73990556,Health
+India,2014,13.5242691,Health
+Indonesia,2014,37.55411585,Health
+Russia,2014,458.63224079,Health
+South Africa,2014,273.84602087,Health
+Turkey,2014,409.13653222,Health
+China,2014,211.30309571,Health
+Argentina,2014,836.35532894,Health
+Saudi Arabia,2014,916.93542498,Health
+Australia,2015,3333.87726324,Health
+Canada,2015,3315.97970723,Health
+France,2015,3225.40892025,Health
+Germany,2015,3884.4601508,Health
+Italy,2015,2020.67206168,Health
+Japan,2015,3139.38394068,Health
+South Korea,2015,1134.70080661,Health
+Mexico,2015,278.09050553,Health
+United Kingdom,2015,3496.21964158,Health
+United States,2015,7805.12263524,Health
+Brazil,2015,332.57741062,Health
+India,2015,15.11904478,Health
+Indonesia,2015,40.44937393,Health
+Russia,2015,294.68088195,Health
+South Africa,2015,252.13243598,Health
+Turkey,2015,355.20290155,Health
+China,2015,236.41869552,Health
+Argentina,2015,1013.44374143,Health
+Saudi Arabia,2015,851.55995105,Health
+Australia,2016,3416.98230887,Health
+Canada,2016,3274.28885079,Health
+France,2016,3534.14982713,Health
+Germany,2016,3991.60343916,Health
+Italy,2016,2039.35609742,Health
+Japan,2016,3538.20950698,Health
+South Korea,2016,1209.04366114,Health
+Mexico,2016,240.81204738,Health
+United Kingdom,2016,3175.3347654,Health
+United States,2016,8077.92583581,Health
+Brazil,2016,337.53355195,Health
+India,2016,15.94651501,Health
+Indonesia,2016,49.89876877,Health
+Russia,2016,267.17024815,Health
+South Africa,2016,230.05547281,Health
+Turkey,2016,367.61714999,Health
+China,2016,231.09310258,Health
+Argentina,2016,710.93501083,Health
+Saudi Arabia,2016,777.90739143,Health
+Australia,2011,3177.862762551521,Education
+Canada,2011,2748.077973503868,Education
+France,2011,2416.503966615925,Education
+Germany,2011,2242.5875418726455,Education
+Italy,2011,1599.5721572029595,Education
+Japan,2011,1754.5578349028,Education
+South Korea,2011,,Education
+Mexico,2011,520.9509568481449,Education
+United Kingdom,2011,2373.577814047269,Education
+United States,2011,,Education
+Brazil,2011,759.9550961101332,Education
+India,2011,55.35223446602114,Education
+Indonesia,2011,116.19270051749409,Education
+Russia,2011,,Education
+South Africa,2011,477.46200949540133,Education
+Turkey,2011,,Education
+China,2011,,Education
+Argentina,2011,679.7858638641803,Education
+Saudi Arabia,2011,,Education
+Australia,2012,3317.3945320732932,Education
+Canada,2012,,Education
+France,2012,2230.2954970063834,Education
+Germany,2012,2163.6690104339286,Education
+Italy,2012,1431.5544636418442,Education
+Japan,2012,1794.5667269489788,Education
+South Korea,2012,,Education
+Mexico,2012,522.6456172494761,Education
+United Kingdom,2012,,Education
+United States,2012,,Education
+Brazil,2012,724.277286976058,Education
+India,2012,55.84204079917449,Education
+Indonesia,2012,125.88420146626385,Education
+Russia,2012,584.928710836933,Education
+South Africa,2012,477.9666620855111,Education
+Turkey,2012,,Education
+China,2012,,Education
+Argentina,2012,699.3769943157256,Education
+Saudi Arabia,2012,,Education
+Australia,2013,3569.7094218351244,Education
+Canada,2013,,Education
+France,2013,2342.730635403845,Education
+Germany,2013,2284.188571068068,Education
+Italy,2013,1480.556906213201,Education
+Japan,2013,1482.8092262320195,Education
+South Korea,2013,,Education
+Mexico,2013,503.65997113936334,Education
+United Kingdom,2013,2427.782205911388,Education
+United States,2013,2618.7282742291422,Education
+Brazil,2013,718.1973846834256,Education
+India,2013,55.73256362991229,Education
+Indonesia,2013,121.72863961581444,Education
+Russia,2013,601.2599150427428,Education
+South Africa,2013,410.87252812105766,Education
+Turkey,2013,,Education
+China,2013,,Education
+Argentina,2013,711.1224368036902,Education
+Saudi Arabia,2013,,Education
+Australia,2014,3234.108300633241,Education
+Canada,2014,,Education
+France,2014,2370.6624488683224,Education
+Germany,2014,2360.044125011141,Education
+Italy,2014,1447.4642191739813,Education
+Japan,2014,1368.3527403722712,Education
+South Korea,2014,,Education
+Mexico,2014,574.5846989017859,Education
+United Kingdom,2014,2686.204283731975,Education
+United States,2014,2730.5922901658278,Education
+Brazil,2014,720.5150115936078,Education
+India,2014,,Education
+Indonesia,2014,114.80497228587923,Education
+Russia,2014,564.7736826112633,Education
+South Africa,2014,388.9903885061008,Education
+Turkey,2014,,Education
+China,2014,,Education
+Argentina,2014,661.3228070476001,Education
+Saudi Arabia,2014,,Education
+Australia,2015,3020.3976202309723,Education
+Canada,2015,,Education
+France,2015,2000.642693900644,Education
+Germany,2015,1976.8291676992094,Education
+Italy,2015,1233.9041239513938,Education
+Japan,2015,,Education
+South Korea,2015,,Education
+Mexico,2015,502.89465986213577,Education
+United Kingdom,2015,2522.324024785707,Education
+United States,2015,,Education
+Brazil,2015,550.0870899875671,Education
+India,2015,,Education
+Indonesia,2015,119.39462659218194,Education
+Russia,2015,357.03473162223366,Education
+South Africa,2015,341.56567475626656,Education
+Turkey,2015,,Education
+China,2015,,Education
+Argentina,2015,796.4712981012981,Education
+Saudi Arabia,2015,,Education
+Australia,2016,2638.630651391125,Education
+Canada,2016,,Education
+France,2016,2008.0059919107214,Education
+Germany,2016,2021.1397013371586,Education
+Italy,2016,1184.6772686275826,Education
+Japan,2016,,Education
+South Korea,2016,,Education
+Mexico,2016,429.12639157995767,Education
+United Kingdom,2016,2253.727236384327,Education
+United States,2016,,Education
+Brazil,2016,,Education
+India,2016,,Education
+Indonesia,2016,,Education
+Russia,2016,327.35775589789336,Education
+South Africa,2016,313.24246464910493,Education
+Turkey,2016,,Education
+China,2016,,Education
+Argentina,2016,712.6953330456465,Education
+Saudi Arabia,2016,,Education

@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" type="text/css" href="css/style.css" />
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
+    <title>G20 Government Expenditures on Military, Healthcare and Education</title>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/main.js"></script>
+    <link href='https://fonts.googleapis.com/css?family=MedievalSharp' rel='stylesheet'>
+</head>
+
+<body>
+    <div id="main">
+        <!-- fixed header to fix the header text and menubar while scrolling -->
+        <div id="fixed-header">
+            <div id="header">
+                <table id="tableheader">
+                    <td>
+                        <div id="header_logo">
+                            <img src="image/g20-logo.png" id="logo"/>
+                        </div><!-- header_logo -->
+                    </td>
+
+                    <td>
+                        <div id="header_text">
+                            <h2><center>Expenditures of G20 Countries on Military, Healthcare and Education</center></h2>
+                        </div> <!-- header_text -->
+                    </td>
+                </table>
+            </div><!-- header -->
+
+            <div id="menubar">
+                <ul id="menu">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="Analysis.html">Analysis</a></li>
+                    <li class="selected"><a href="Trending.html">Trending</a></li>
+                    <li><a href="Annual Growth.html">Growth</a></li>
+                    <li><a href="Discussion.html">Discussion</a></li>
+                </ul><!-- menu -->
+            </div><!-- menubar -->
+        </div><!--fixed header-->
+
+        <div id="content">
+            <h3>Trending in regards to Economic Growth</h3>
+            <p>By looking at the change of expenditure as share of GDP, we can understand the trend of spending in regards to the economic growth.</p>
+            <div id="line_share_dashboard_div">
+                <div id="line_share_control_div" class='filter_class'></div>
+                <div id="line_share_chart_div" class='chart_class'></div>
+            </div>
+            </br>
+            <p> Overall, there are slight changes in the spending of the majority of the countries in regards to their economic growth. This shows a consitent policy in financial expenditure of G20 group. The chart shows a growing trend in the military spending of Russia and Saudi Arabia. Another emarkable finding is the improvement in the healthcare expenditure of United States between 2013-2014. The period 2013-2014 saw a huge improvement in ObamaCare with two healthcare reform’s programs: Medicaid Expansion and the ObamaCare Insurance Marketplaces, which reflects higher priority and investment in the country's healthcare facilities.
+            </p>
+            </br></br>
+            <h3>Spending Ratio</h3>
+            <p>The ratio of spending on military, healthcare and education shows which category receives the most concentration of governments. We can also visualize the pattern of expenditure by comparing the proportion of spending in each category over time.</p>
+            <div id="bar_ratio_dashboard_div">
+                <div id="bar_ratio_control_div" class='filter_class'></div>
+                <div id="bar_ratio_chart_div" class='chart_class'></div>
+            </div>
+            </br>
+            <p> In general, the ratio of spending in military, healthcare and education does not have any significant changes. The clearest trends can be seen from United States and Russia. While United States reduces the priority in military and put more attention to healthcare, Russia seems to have a reverse trend.</p>
+            </br></br>
+            <h3>Trending per Capita</h3>
+            <p> The below chart shows the change in per person spending during 2011-2016.</p>
+            <div id="col_trend_capita_dashboard_div">
+                <table id="table_filter">
+                    <td id="col_trend_capita_control_div2" class='filter_class'></td>
+                    <td id="col_trend_capita_control_div1" class='filter_class'></td>
+                </table>
+                <div id="col_trend_capita_chart_div" class='chart_class'></div>
+            </div>
+            </br>
+            <p>The trends in per person spending varies over the time. The charts have clearer patterns in the case of United States and China. It is easy to visualize the growths in military and healthcare expenditure per capita in China. Besides, while United States shows an increasing trend in the per person spending in healthcare, the country's expenditure per capita in military keeps decreasing every year. <p>
+            </br>
+            
+
+            
+
+        </div><!-- content -->
+    </div><!-- main -->
+</body>
+
+</html>

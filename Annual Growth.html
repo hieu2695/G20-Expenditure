@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" type="text/css" href="css/style.css" />
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
+    <title>G20 Government Expenditures on Military, Healthcare and Education</title>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/main.js"></script>
+    <link href='https://fonts.googleapis.com/css?family=MedievalSharp' rel='stylesheet'>
+</head>
+
+<body>
+    <div id="main">
+        <!-- fixed header to fix the header text and menubar while scrolling -->
+        <div id="fixed-header">
+            <div id="header">
+                <table id="tableheader">
+                    <td>
+                        <div id="header_logo">
+                            <img src="image/g20-logo.png" id="logo"/>
+                        </div><!-- header_logo -->
+                    </td>
+
+                    <td>
+                        <div id="header_text">
+                            <h2><center>Expenditures of G20 Countries on Military, Healthcare and Education</center></h2>
+                        </div> <!-- header_text -->
+                    </td>
+                </table>
+            </div><!-- header -->
+
+            <div id="menubar">
+                <ul id="menu">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="Analysis.html">Analysis</a></li>
+                    <li><a href="Trending.html">Trending</a></li>
+                    <li class="selected"><a href="Annual Growth.html">Growth</a></li>
+                    <li><a href="Discussion.html">Discussion</a></li>
+                </ul><!-- menu -->
+            </div><!-- menubar -->
+        </div><!--fixed header-->
+
+        <div id="content">
+            <h3> Growth in the Absolute Expenditure</h3>
+            <p> The following line graph presents an overall trending in the absolute amount of spending of 19 countries from 2011-2016.</p>
+            <div id="line_growth_dashboard_div">
+                <div id="line_growth_control_div" class='filter_class'></div>
+                <div id="line_growth_chart_div" class='chart_class'></div>
+            </div>
+            </br>
+            <p> According to the chart, the absolute spending of G20 countries in education seems not to vary a lot over the time. The most remarkable pattern is the drastic growth in the healthcare spending of the United States between 2013 and 2014, which is also discussed in the Trending section. Moreover, there has been an annual drop in the military expenditure of the USA, whereas China's spending in this category has increased during the period.
+            </p>
+            </br>
+
+            </br>
+            <h3>Annual Change in Percentage</h3>
+            <p>In this part, we will see how the expenditure on each category changes over the time.</p>
+            <div id="col_change_dashboard_div">
+                <div id="col_change_control_div" class='filter_class'></div>
+                <div id="col_change_chart_div" class='chart_class'></div>
+            </div>
+            </br></br>
+            <p> According to the chart, the coutries with biggest growth in military spending are China and Saudi Arabia. While China maintained a consistent growing from 2011-2015 and had a slight improvement at the end of 2016, Saudi Arabia had large increases in the first 5 years (approximately 15% per year) but dropped a drastic amount of military spending during 2016 in regrards to 2015. However, the country with the highest change is Indonesia with nearly 30% growth in their expenditure between 2012 and 2013. United States, the country with the highest absolute amount of military expenditure, has their spending reduce over the period.</br></br>
+                In the healthcare category, most of the countries have their expenditure increase over the time. The most noteworthy finding is that the spending of United States rose sharply in 2014. The amount of their expenditure in healthcare increased by more than 75% of the previous year.
+            </br></br>
+                There are missing data in the spending of education so the visualization is not really meaningful. The available data illustrates that the majority of countries reduce their expenditure on education during 2011-2016. Russia is the nation with highest drop in their educational support. The peak is the period of 2014-2015 with about 36% decrease in the amount of their spending.
+            </p>
+            </br></br>
+            <h3>Average Annual Change</h3>
+            <p>The following geomap shows the average change in expenditure. This chart helps to conclude the overall trending of 19 countries in their spendings on military, healthcare and education.</p>
+            <h3><center>GeoMap of Annual Change in Spending</center></h3>
+            <div id='geo_change_dashboard_div'>
+                <div id='geo_change_control_div1' class="filter_class"></div>
+                <div id='geo_change_control_div2' class="filter_class"></div>
+                <div>
+                    <button style="margin: 1em 1em 1em 2em" onclick="resetRange();">Reset filter</button>
+                    <button style="margin: 1em 1em 1em 2em" onclick="changeRangepositive();">Select countries with annual increase</button>
+                    <button style="margin: 1em 1em 1em 2em" onclick="changeRangenegative();">Select countries with annual decrease</button>
+                </div>
+                <div id='geo_change_chart_div' class="chart_class"></div>
+            </div><!-- dashboard -->
+            </br>
+            <p> The GeoMap shows that United States is the country with highest average annual growth in the healthcare and education spending. The nation also has the largest decrease in military spending during 6 years. The countries with biggest average growth in military expenditure are China and Saudi Arabia.</p>
+            </br></br>
+        </div><!-- content -->
+    </div><!-- main -->
+</body>
+
+</html>
