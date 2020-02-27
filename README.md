@@ -1,4 +1,4 @@
-# Topic: Domestic Government Expenditure of G20 countries.
+## Topic: Domestic Government Expenditure of G20 countries.
 
 ---
 ## Introduction
@@ -8,10 +8,6 @@ This is an analysis about the expenditure of 19 countries in G20 (excluding Euro
 ## About the Data
 
 The dataset is retrieved from [Data World Bank](https://data.worldbank.org/). In this project, only the domestic general government expenditures are taken into consideration. The data is preprocessed using Python and is visualized using Visual Studio Code. Due to the availability of data, there are some missing values in education expenditure so the analysis of education is not completely meaningful.
-
-The preprocessing process can be found at this [notebook](codes/Preprocessing data.ipynb).
-
-After that, the cleaned datasets are modified at this [notebook](codes/Data for Visualization.ipynb) to support data visualization. 
 
 ## Key Findings
 
