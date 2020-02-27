@@ -125,24 +125,22 @@ ul#menu li a:hover {
     float: right;
     line-height: 1.7;
     padding: 150px 100px 0 70px;
-    font-size: 100%;
+    font-size: 110%;
 }
+
 
 #discussion {
     width: 95%;
     background: #ffffff;
     overflow: hidden;
-    letter-spacing: 1px;
+    letter-spacing: 0.7px;
     text-align: justify;
-    float: left;
-    line-height: 2.0;
+    float: right;
+    line-height: 1.6;
+    padding: 150px 100px 0 80px;
+    font-size: 120%;
     font-family: "Trebuchet MS", Helvetica, sans-serif;
-    margin-left: 100px;
-    padding: 130px 100px 100px 50px;
-    font-size: 130%;
-
 }
-
 
 .filter_class {
     line-height: 1.0;
